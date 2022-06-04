@@ -19,12 +19,12 @@
   level: 2
   threshold: 40
   metadata:
-    title_ru: Там, где слова бессильны
-    text_ru: Музыка – это язык, на котором душа общается с душою, стирая границы условностей.
-    title_en: Where words are powerless.
-    text_en: Music is a language in which the soul communicates with the soul, erasing the boundaries of convention.
-    image: /assets/achievements/anime/music_2.jpg
-    border_color: "#9DB1CC"
+    title_ru: Музыкальное поколение
+    text_ru: Есть мелодии прошлого, которые ты уже ностальгируешь по нему. А есть мелодии настоящего, где сейчас слушаешь любимую музыку. А вот мелодия будущего - это уже другой мир. Любая эра музыки звучит красиво, выбирай на свой вкус!
+    title_en: Music of the future
+    text_en: There are melodies of the past that you are already nostalgic for. And there are melodies of the present, where you are listening to your favorite music now. But the melody of the future is another world. Any era of music sounds beautiful, choose according to your taste!
+    image: https://static.lootcrate.com/yrk2x9n6p9s5/3DUealmypGUAwQkse2qyAE/7383aafff676101c546db50cbc2a2acc/past-anime-music-download.jpg
+    border_color: "#7693ff"
 
 - <<: *defaults
   level: 3
